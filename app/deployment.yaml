@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: menghout009-react-with-form-input
-          image: kshrdautopilot/menghout009-react-with-form-input
+          image: kshrdautopilot/menghout009-react-with-form-input:2023-12-07-02-10-28
           ports:
             - containerPort: 3000
